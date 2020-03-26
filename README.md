@@ -1,5 +1,5 @@
-# 这是来自目录下README.md 的内容
+# 关于本站
 
-README.md为markdown语法
+这只不过是一个博客附带的文件分享站，别玩脱了伙计。
 
-oneindex会自动解析目录下的README.md并在目录尾部展示
+另外，欢迎访问我的[博客主页](https://powerfullz.cn)
